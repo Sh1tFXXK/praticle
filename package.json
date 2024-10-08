@@ -20,5 +20,6 @@
 		"freecodecamp",
 		"microservice",
 		"express"
-	]
+	],
+	"license" :"chi"
 }
