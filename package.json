@@ -21,5 +21,10 @@
 		"microservice",
 		"express"
 	],
-	"license" :"chi"
+	"license" :"chi",
+	"version" :"0.0",
+	"dependencies":{
+		"@freecodecamp/example":"^1.2.13",},
+	
+		
 }
